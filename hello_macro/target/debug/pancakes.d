@@ -1,0 +1,1 @@
+/Users/adamcolvin/Documents/Rust/hello_macro/target/debug/pancakes: /Users/adamcolvin/Documents/Rust/hello_macro/hello_macro_derive/src/lib.rs /Users/adamcolvin/Documents/Rust/hello_macro/pancakes/src/main.rs /Users/adamcolvin/Documents/Rust/hello_macro/src/lib.rs

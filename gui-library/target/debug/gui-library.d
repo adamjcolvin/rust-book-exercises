@@ -1,0 +1,1 @@
+/Users/adamcolvin/Workspace/rust-projects/gui-library/target/debug/gui-library: /Users/adamcolvin/Workspace/rust-projects/gui-library/src/lib.rs /Users/adamcolvin/Workspace/rust-projects/gui-library/src/main.rs
